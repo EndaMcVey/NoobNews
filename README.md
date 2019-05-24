@@ -25,3 +25,6 @@ To run the application, please do the following:
 
 <h3>Demo Video</h3>
 Youtube Link: https://youtu.be/pn6mTarhtfI
+
+
+<h2>Look at Noob News.pdf for an overview of the application </h2>
